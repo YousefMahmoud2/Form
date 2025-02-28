@@ -2,7 +2,7 @@
   "name": "package.json",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://YousefMahmoud2.github.io/Form",
+  "homepage": "https://YousefMahmoud2.github.io/Form2",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
